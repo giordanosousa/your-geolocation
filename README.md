@@ -36,8 +36,8 @@ O projeto consiste em três arquivos principais:
 
 <h3>Referências</h3>
 
-- Leaflet Documentation
-- Geolocation API Documentation
+- Leaflet Documentation https://leafletjs.com/
+- Geolocation API Documentation https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
 
 <h3>Licença</h3>
 Este projeto é distribuído sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
