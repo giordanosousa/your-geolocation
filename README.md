@@ -1,4 +1,5 @@
-[https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+![Captura de Tela (162)](https://github.com/giordanosousa/your-geolocation/assets/135980427/31901129-f28d-4b05-b07f-f8acc4c24ca3)
+
 <h1>Projeto de Geolocalização com Leaflet</h1>
 
 <h2>Este projeto utiliza a biblioteca JavaScript Leaflet para exibir a geolocalização do usuário em um mapa interativo. Abaixo estão os passos e detalhes principais do projeto:</h2>
@@ -42,5 +43,6 @@ O projeto consiste em três arquivos principais:
 
 <h3>Licença</h3>
 Este projeto é distribuído sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
+
 
 
